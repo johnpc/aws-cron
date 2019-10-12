@@ -1,7 +1,7 @@
 {
-  "name": "lambda-cdk",
+  "name": "aws-cron",
   "version": "1.0.0",
-  "description": "Infrastructure for deploying John's personal website to AWS",
+  "description": "Infrastructure for deploying a scheduled job to AWS",
   "scripts": {
     "build": "tsc",
     "watch": "tsc -w",
